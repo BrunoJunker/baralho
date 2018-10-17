@@ -1,0 +1,2 @@
+# baralho
+truco
